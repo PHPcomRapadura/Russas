@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" href="assets/img/favicon.png">
-    <title>PHP com Rapadura CONFERENCE 2022</title>
+    <title>PHP com Rapadura CONFERENCE 2025</title>
 
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -27,7 +27,7 @@
     <?php require_once 'views/about.php'; ?>
 
     <!-- Section Speakers -->
-    <?php require_once 'views/speakers.php'; ?>
+    <!-- <?php require_once 'views/speakers.php'; ?> -->
 
     <!-- Section Parallax two -->
     <?php require_once 'views/parallax-two.php'; ?>
@@ -47,7 +47,7 @@
     <!-- Section sponsors -->
     <?php require_once 'views/sponsors.php'; ?>
 
-    <!-- Section sponsors -->
+    <!-- Section footer -->
     <?php require_once 'views/footer.php'; ?>
 
     <!--  Scripts-->

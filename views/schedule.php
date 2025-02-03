@@ -5,8 +5,7 @@
                 <h3 class="font-marron"><strong>Programação</strong></h3>
                 <h5 class="font-marron">E o que vai ter de bom?</h5>
                 <div class="col s12 center card brown lighten-4">
-                    <h2>EM BREVE</h2>
-                    <table style="display: none;" class="responsive-table highlight">
+                    <table class="responsive-table highlight">
                         <thead>
                             <tr>
                                 <th><strong>Horário</strong></th>
@@ -16,34 +15,29 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>08:00</td>
+                                <td>08:30</td>
+                                <td>Credenciamento + Café</td>
                                 <td>Abertura</td>
+                            </tr>
+                            <tr>
+                                <td>09:00</td>
                                 <td>Abertura</td>
+                                <td>CDL</td>
                             </tr>
                             <tr>
-                                <td>08:20</td>
-                                <td>Testes Gray Box - Aplicação do melhor dos dois mundos</td>
-                                <td>Carol Rodrigues</td>
-                            </tr>
-                            <tr>
-                                <td>09:10</td>
-                                <td>Eventos, PHP e Microsserviços, pode dar em festa, até via streaming.</td>
-                                <td>Chicão Thiago</td>
-                            </tr>
-                            <tr>
-                                <td>09:50</td>
-                                <td>Intervalo para coffee break</td>
+                                <td>09:30</td>
+                                <td>Palestra 1</td>
                                 <td>Comunidade PHP com Rapadura</td>
                             </tr>
                             <tr>
                                 <td>10:20</td>
-                                <td>DDD, pra que lado vai Isso?!</td>
-                                <td>Adiel Cristo</td>
+                                <td>Palestra 2</td>
+                                <td>Comunidade PHP com Rapadura</td>
                             </tr>
                             <tr>
                                 <td>11:10</td>
-                                <td>Vixe tem bug... e agora?</td>
-                                <td>Juliana Martins</td>
+                                <td>Palestra 3</td>
+                                <td>Comunidade PHP com Rapadura</td>
                             </tr>
                             <tr>
                                 <td>12:00</td>
@@ -51,34 +45,29 @@
                                 <td>Todo mundo!</td>
                             </tr>
                             <tr>
-                                <td>13:00</td>
-                                <td>Então me ajude a atualizar, PHP7 eu quero é você</td>
-                                <td>Raquel Barra</td>
+                                <td>13:30</td>
+                                <td>Palestra 4</td>
+                                <td>Comunidade PHP com Rapadura</td>
                             </tr>
                             <tr>
-                                <td>13:50</td>
-                                <td>Aplicações PHP Serverless</td>
-                                <td>Luítame de Oliveira</td>
+                                <td>14:20</td>
+                                <td>Palestra 5</td>
+                                <td>Bluey</td>
                             </tr>
                             <tr>
-                                <td>14:40</td>
+                                <td>15:10</td>
+                                <td>Mesa redonda</td>
+                                <td>Representantes da comunidade</td>
+                            </tr>
+                            <tr>
+                                <td>16:00</td>
+                                <td>Encerramento e sorteio</td>
+                                <td>Comunidade PHP com Rapadura</td>
+                            </tr>
+                            <tr>
+                                <td>16:30</td>
                                 <td>PHPizza</td>
-                                <td>Comunidade PHP com Rapadura</td>
-                            </tr>
-                            <tr>
-                                <td>15:20</td>
-                                <td>Trabalhando com Value Objects com PHP</td>
-                                <td>Ian Rodrigues</td>
-                            </tr>
-                            <tr>
-                                <td>16:10</td>
-                                <td>Kahoot</td>
-                                <td>Comunidade PHP com Rapadura</td>
-                            </tr>
-                            <tr>
-                                <td>16:40</td>
-                                <td>Encerramento: Agradecimentos e sorteio de brindes</td>
-                                <td>Comunidade PHP com Rapadura</td>
+                                <td>Todo mundo!</td>
                             </tr>
                         </tbody>
                     </table>

@@ -1,11 +1,8 @@
-<div class="parallax-container valign-wrapper">
+<div class="parallax-container valign-wrapper" style="min-height: 400px">
     <div class="section no-pad-bot">
-        <div class="container" id="tickets">
+    <div class="container" id="tickets">
             <div class="row center">
-                <h2>INSCRIÇÕES EM BREVE</h2>
-                <!-- <div class="row center" id="sympla-widget-692159" height="auto"></div> 
-                    
-                <script src="https://www.sympla.com.br/js/sympla.widget-pt.js/692159"></script> -->
+                <a class="btn" style="background-color: #ffbf00; color: black;" href="https://bit.ly/php-russas-2025" target="_blank">COMPRAR INGRESSOS</a>
             </div>
         </div>
     </div>

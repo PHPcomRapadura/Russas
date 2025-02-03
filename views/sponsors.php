@@ -1,3 +1,11 @@
+<style>
+    .card {
+        height: auto !important; /* Garante que a altura se ajuste ao conteúdo */
+        min-height: 100px; /* Opcional: Define um tamanho mínimo */
+    }
+
+</style>
+
 <div class="container">
     <div class="section" id="sponsors">
         <div class="row">
@@ -13,181 +21,119 @@
             <div class="col s12 m10 offset-m1">
                 <div class="card brown lighten-4">
                     <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Patrocínio Rapadura Preta</strong></span>
+                        <span class="card-title font-marron"><strong>Patrocínio Diamante</strong></span>
                         <hr />
                         <br>
-                        <div class="row">
-                            <div class="col m5 offset-m1">
-                                <!-- <img class="responsive-img" width="90%" id="img-sponsors" src="assets/img/sponsors/cyrille.jpg" alt="Cyrille Grandval" title="Cyrille Grandval"> -->
-                            </div>
-                            <div class="col m5">
-                                <h4 class="h2 brown-text">SUA EMPRESA AQUI</h4>
-                                <hr>
-                                <p class="brown-text" style="font-size: 14pt">
-                                    <a href="https://t.me/@AlessandroFeitoza">Saiba mais</a>
-                                </p>
 
-                                <!-- <br>
-                                <a class="brown-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/CyrilleGrandval/"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
-                                </a>
-                                &nbsp;
-                                &nbsp;
-                                <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/cyrillegrandval/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
-                                </a>
+                        <img class="responsive-img" width="20%" id="img-sponsors" src="/assets/img/sponsors/logo-nova-brisanet.png" alt="Brisanet" title="Brisanet">
 
-                                &nbsp;
-                                &nbsp;
-                                <a class="brown-text text-darken-4" title="github" target="_blank" href="http://github.com/cgrandval/"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
-                                </a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col s12 m6">
-                <div class="card brown lighten-4">
-                    <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Patrocínio Rapadura de castanha</strong></span>
-                        <hr />
+                        <p class="brown-text" style="font-size: 14pt">
+                            Uma empresa de telecomunicações líder no Nordeste, oferecendo internet 100% fibra óptica, telefonia móvel e TV por assinatura.
+                            A empresa se destaca pela qualidade e inovação. Seu compromisso é conectar pessoas e promover inclusão digital.
+                        </p>
 
-                        <div class="center">
-                            <br>
-                            <!-- <img class="responsive-img" width="90%" id="img-sponsors" src="assets/img/sponsors/logo-oowlish.png" alt="Oowlish" title="Oowlish"> -->
-
-                            <h2>Sua empresa aqui</h2>
-
-                            <p class="brown-text" style="font-size: 11pt">
-                                <a href="https://t.me/@AlessandroFeitoza">Saiba mais</a>
-                            </p>
-
-                            <br>
-                            <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/oowlish"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                            </a>
-                            &nbsp;
-                            &nbsp;
-                            <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/oowlishtechnology/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
-                            </a>
-
-                            &nbsp;
-                            &nbsp;
-                            <a class="brown-text text-darken-4" title="Site" target="_blank" href="https://oowlish.com/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m6">
-                <div class="card brown lighten-4">
-                <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Patrocínio Rapadura de castanha</strong></span>
-                        <hr />
-
-                        <div class="center">
-                            <br><br>
-                            <!-- <img class="responsive-img" width="100%" id="img-sponsors" src="assets/img/sponsors/logo-fortics.png" alt="Fortics" title="Fortics"> -->
-                            <h2>Sua empresa aqui</h2>
-
-                            <p class="brown-text" style="font-size: 11pt">
-                                <a href="https://t.me/@AlessandroFeitoza">Saiba mais</a>
-                            </p>
-
-                            <!-- <br>
-                            <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/fortics"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                            </a>
-                            &nbsp;
-                            &nbsp;
-                            <a class="brown-text text-darken-4" title="linkedin" target="_blank" href="https://www.linkedin.com/company/forticsoficial"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
-                            </a>
-
-                            &nbsp;
-                            &nbsp;
-                            <a class="brown-text text-darken-4" title="Site" target="_blank" href="https://www.fortics.com.br"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
-                            </a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col s12 m4">
-                <div class="card brown lighten-4">
-                    <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Patrocínio Rapadura batida</strong></span>
-                        <hr />
-                        <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento jóiado.</p>
-                    </div>
-                    <div class="card-action font-marron">
-                        <a class="waves-effect waves-light btn color-marron" target="_blank" href="assets/files/midia-kit-conference.pdf">
-                            <i class="fa fa-plus-circle"></i> Saiba mais
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col s12 m4">
-                <div class="card brown lighten-4">
-                    <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Patrocínio Rapadura batida</strong></span>
-                        <hr />
-
-                        <div class="center">
-                            <br>
-                            <!-- <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/logo-rswpay.png" alt="R$W Pay" title="R$W Pay"> -->
-                        </div>
-                    </div>
-                    <!-- <div class="card-action center">
-                        <a class="brown-text text-darken-4" title="website" target="_blank" href="https://rswpay.com.br/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/rswpay/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="brown-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/rswpay/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                        </a>
-                    </div> -->
-                </div>
-            </div>
-
-            <div class="col s12 m4">
-                <div class="card brown lighten-4">
-                    <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Patrocínio Rapadura batida</strong></span>
-                        <hr />
-                        <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento jóiado.</p>
-                    </div>
-                    <div class="card-action font-marron">
-                        <a class="waves-effect waves-light btn color-marron" target="_blank" href="assets/files/midia-kit-conference.pdf">
-                            <i class="fa fa-plus-circle"></i> Saiba mais
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col s12 m6 offset-m3">
-                <div class="card brown lighten-4">
-                    <div class="card-content white-text">
-                        <span class="card-title font-marron"><strong>Apoio Institucional</strong></span>
-                        <hr>
-                        <div class="center">
                         <br>
-                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/logo-uni7.png" alt="uni7" title="Centro Universitário 7 de Setembro">
-                        </div>
+                        <a class="brown-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/brisanet"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                        &nbsp;
+                        &nbsp;
+                        <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/brisanet.oficial/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+                        </a>
 
-                    </div>
-                    <div class="card-action center">
-                        <a class="brown-text text-darken-4" title="website" target="_blank" href="https://www.uni7.edu.br/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/uni7oficial"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="brown-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/UNI7setembro/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        &nbsp;
+                        &nbsp;
+                        <a class="brown-text text-darken-4" title="web" target="_blank" href="https://www.brisanet.com.br"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>
             </div>
         </div>
+        <br>
+
+        <div class="row">
+            <div class="col s12 m10 offset-m1">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron"><strong>Patrocínio Ouro</strong></span>
+                        <hr />
+                        <br>
+
+                        <img class="responsive-img" width="20%" id="img-sponsors" src="/assets/img/sponsors/yello.png" alt="Yello" title="Yello">
+
+                        <p class="brown-text" style="font-size: 14pt">
+                            O gerenciamento de TVs de Publicidade e Painéis de Led não precisa ser chato e complexo. Nascemos para descomplicar a vida dos empreendedores com uma solução completa, confiável e que está sempre em evolução.
+                        </p>
+
+                        <br>
+                        <a class="brown-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/yeloo"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                        &nbsp;
+                        &nbsp;
+                        <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/yeloo"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                        &nbsp;
+                        &nbsp;
+                        <a class="brown-text text-darken-4" title="web" target="_blank" href="https://www.yeloo.com.br"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="row">
+            <div class="col s12 m10 offset-m1">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron"><strong>Patrocínio Diamante</strong></span>
+                        <hr />
+                        <br>
+
+                        <img class="responsive-img" width="20%" id="img-sponsors" src="/assets/img/sponsors/bluey-hub-logo.png" alt="Bluey Hub" title="Bluey Hub">
+
+                        <p class="brown-text" style="font-size: 14pt">
+                            Promover conexões, impulsionar o espírito empreendedor e transformar vidas, esse é o propósito da Bluey.
+                        </p>
+
+                        <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/bluey.hub"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                        &nbsp;
+                        &nbsp;
+                        <a class="brown-text text-darken-4" title="web" target="_blank" href="https://www.blueyhub.com.br"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="row">
+            <div class="col s12 m10 offset-m1">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron"><strong>Patrocínio Bronze</strong></span>
+                        <hr />
+                        <br>
+
+                        <img class="responsive-img" width="20%" id="img-sponsors" src="/assets/img/sponsors/padaria-nossa-senhora.png" alt="Padaria Nossa Senhora" title="Padaria Nossa Senhora">
+
+                        <p class="brown-text" style="font-size: 14pt">
+                            60 anos a nossa família trabalhando para sua família! Venha conhecer nosso novo espaço com ambiente climatizado e deliciosos pratos.
+                        </p>
+
+                        <br>
+                        <a class="brown-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/pandefatima"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                        &nbsp;
+                        &nbsp;
+                        <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/padariadohelder"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
     </div>
 </div>

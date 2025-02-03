@@ -6,12 +6,7 @@
                 <h5 class="font-marron">Conheça as autoridades</h5>
             </div>
         </div>
-        
-        <div style="text-align: center;">
-            <h2>EM BREVE</h2>
-        </div>
-
-        <div class="row" style="display: none; ">
+        <div class="row">
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
                     <div class="card-content white-text">
@@ -54,7 +49,7 @@
                             Tester, Desenvolvedora Front-End Jr., Representante das comunidades PHPWomenCE e Front-end CE, estudante de Análise e Desenvolvimento de Sistemas.
                      </div>
                 </div>
-                
+
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -96,12 +91,12 @@
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/ian.rodrigues.79230"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i> </a>
                     </div>
                     <div class="bio">
-                        
+
                             Programador (e palestrante) experiente, que foca em um código limpo e que entrega valor. Gosto de compartilhar conhecimento e me preocupo com o auto-aperfeiçoamento. Gosto de palestrar em conferências e meetups sobre PHP, clean code, testes automatizados, infraestrutura e muito mais.
-                
+
                     </div>
                 </div>
-                
+
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -122,7 +117,7 @@
                        Gerente de Projetos na OSF Global
                     </div>
                 </div>
-                
+
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -146,7 +141,7 @@
                          Backend developer at Oowlish
                     </div>
                 </div>
-               
+
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
